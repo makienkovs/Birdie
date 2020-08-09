@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Птичка</string>
+    <string name="Start">Начать игру</string>
+    <string name="Settings">Настройки</string>
+    <string name="Score">Счет:\u0020</string>
+    <string name="Sound">Звук</string>
+    <string name="Volume">Громкость</string>
+    <string name="Difficulty">Сложность</string>
+    <string name="Day">День</string>
+    <string name="Night">Ночь</string>
+    <string name="Bestscore">Лучший счет:\u0020</string>
+    <string name="Passscore">Пройдено:\u0020</string>
+    <string name="Ok">Ok</string>
+    <string name="Tap">Полетели!</string>
+    <string name="Fpson">Отображение FPS включено.</string>
+    <string name="Fpsoff">Отображение FPS выключено.</string>
+</resources>

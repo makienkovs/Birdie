@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Birdie</string>
+    <string name="Start">Start the game</string>
+    <string name="Settings">Settings</string>
+    <string name="Score">Score:\u0020</string>
+    <string name="Sound">Sound</string>
+    <string name="Volume">Volume</string>
+    <string name="Difficulty">Difficulty</string>
+    <string name="Day">Day</string>
+    <string name="Night">Night</string>
+    <string name="Bestscore">Best score:\u0020</string>
+    <string name="Passscore">Pass:\u0020</string>
+    <string name="Ok">Ok</string>
+    <string name="Tap">Let\'s fly!</string>
+    <string name="Fpson">FPS display enabled.</string>
+    <string name="Fpsoff">FPS display disabled.</string>
+</resources>
